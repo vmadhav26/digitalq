@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Qopikun Digital Inspection Portal",
+  "description": "A real-time online inspection portal for third-party inspections, featuring live video, collaborative report generation, and AI-powered summaries.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
